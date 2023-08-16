@@ -1,8 +1,19 @@
 // Start Here
 
-// Iteration 1 - Working with the alert() method
-//
+// Iteration 1 - Welcome and Introduction
 alert(
   `Welcome to our Javascript Pizzeria. 
 This little program will be executed without the necessity of using DOM Elements or functions in order to enhance your knowledge, Ready to Start? - Click 'OK' to begin.`
 );
+
+// Iteration 2 - Food Choice
+// Your Code Goes Here
+
+// Iteration 3 - Subtype Choice
+// Your Code Goes Here
+
+// Iteration 4 - Age and Order Confirmation
+// Your Code Goes Here
+
+// Iteration 5 - Conclusion
+// Your Code Goes Here

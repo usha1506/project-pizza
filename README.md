@@ -95,6 +95,8 @@ So you’ve completed all the iterations above? Great job! Make sure you've comm
 
 As a challenge to enhance your coding skills, consider refactoring the entire code by replacing the existing if, else-if, and else conditionals with a more streamlined and organized approach using JavaScript's switch case structure. By doing so, you'll improve code readability and maintainability, making it easier to manage various scenarios and outcomes in a more structured manner.
 
+We recommend creating an extra script.js file under the name `switch.js` to have both code syntax avaible.
+
 ### How to Approach the Stretch Goal:
 
 - Review the Existing Code: Take a thorough look at your current code to understand the logic, conditions, and branches that determine the flow of the program based on user choices.
