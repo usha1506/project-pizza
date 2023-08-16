@@ -14,7 +14,7 @@ Have you deployed your project somewhere? Be sure to include the link to the dep
 
 ## Navigating this repository
 
-In this project, we're all about mastering vital JavaScript tricks – variables, conditionals, and native methods. The fun part? We've ditched web page fuss, giving you a pure coding playground.
+In this project, we're all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods. The fun part? We've ditched web page fuss, giving you a pure coding playground.
 
 Why? So you can nail the basics without distractions. Dive into JavaScript logic and amp up your variable game (they're like data containers!) and unleash conditionals for smart choices. You'll even groove with native methods for slick operations.
 
