@@ -16,9 +16,13 @@ Have you deployed your project somewhere? Be sure to include the link to the dep
 
 In this project, we're all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods. The fun part? We've ditched web page fuss, giving you a pure coding playground.
 
-Why? So you can nail the basics without distractions. Dive into JavaScript logic and amp up your variable game (they're like data containers!) and unleash conditionals for smart choices. You'll even groove with native methods for slick operations.
+### Why?
 
-Bottom line: we're crafting a solid learning experience. Focus on JavaScript's core and skip the DOM maze. With this groundwork, you'll strut into tougher coding quests like a JavaScript champ. 🚀🌟
+So you can nail the basics without distractions. Dive into JavaScript logic and amp up your variable game (they're like data containers!) and unleash conditionals for smart choices. You'll even groove with native methods for slick operations.
+
+### Bottom line
+
+We're crafting a solid learning experience. Focus on JavaScript's core and skip the DOM maze. With this groundwork, you'll strut into tougher coding quests like a JavaScript champ. 🚀🌟
 
 ### code/index.html
 
