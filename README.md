@@ -61,7 +61,7 @@ A pop-up will appear on your screen with this message, inviting you to start you
 
 ## Iterations
 
-### Iteration 1 - Food Choice
+### Iteration 1 - Welcome and Introduction
 
 In this iteration, you'll find a pre-written code snippet that generates a welcoming message and introduction for the user. This is done to give you a hint about how this section can be implemented.
 
