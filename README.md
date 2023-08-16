@@ -22,7 +22,7 @@ The message itself is written between the parentheses of the alert() method. It'
 
 The message itself says, "Welcome to our JavaScript Pizzeria. This little program will run without needing to mess around with fancy website parts or special functions. It's all about helping you learn. Ready to begin? Click 'OK' to start."
 
-So, when you run this code, a pop-up will appear on your screen with this message, inviting you to start your journey in a fun and interactive way. This is just the beginning of using JavaScript to make things happen on a webpage!
+So, when you run this code;
 
 ```js
 alert(
@@ -30,3 +30,5 @@ alert(
 This little program will be executed without the neccesity of using DOM Elements or functions in order to enhance your knowledge, Readt to Start? - Click 'OK' to begin.`
 );
 ```
+
+A pop-up will appear on your screen with this message, inviting you to start your journey in a fun and interactive way. This is just the beginning of using JavaScript to make things happen on a webpage!
