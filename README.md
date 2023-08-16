@@ -50,3 +50,51 @@ This little program will be executed without the neccesity of using DOM Elements
 ```
 
 A pop-up will appear on your screen with this message, inviting you to start your journey in a fun and interactive way. This is just the beginning of using JavaScript to make things happen on a webpage!
+
+## Iterations
+
+### Iteration 1 - Food Choice
+
+In this iteration, you'll find a pre-written code snippet that generates a welcoming message and introduction for the user. This is done to give you a hint about how this section can be implemented.
+
+After that, the program will utilize a technique known as the prompt() method. This technique allows the program to display a small dialog box requesting your name. As a useful tip, you can store the input obtained from the prompt() method in a variable. This variable acts as a container to hold data, and it will enable your program to recall and utilize your name at a later point.
+
+### Iteration 2 - Subtype Choice
+
+The goal of this iteration is to allow the user to select the type of food they want to order. If you checck the provided working example, you can see that our Javascript Pizzera offers:
+
+- Pizza
+- Pasta
+- Salad
+
+The program should use the prompt() method to present the user with a menu of options (Pizza, Pasta, Salad) and prompt them to enter a number corresponding to their choice. Based on the user's input, the program should determine the chosen food type (Pizza, Pasta, Salad) and display a message using the alert() method to confirm the user's selection.
+
+### Iteration 3 - Age and Order Confirmation
+
+In this iteration, the program should prompt the user to specify if the food is intended for a child or an adult. The prompt() method should be used to present the options and get the user's input. Based on the user's choice, an appropriate order message should be constructed. The program should use the alert() method to display the order message and the associated cost. The user's confirmation should be obtained using the prompt() method.
+
+### Iteration 4 - Conclusion
+
+The final iteration involves confirming the user's order based on their previous choices. The program should evaluate the user's confirmation choice using an if...else statement and take appropriate action. If the user confirms, a thank you message should be displayed using the alert() method, indicating that their meal will be prepared. If the user declines, a polite farewell message should be displayed using the alert() method, encouraging them to return for future orders.
+
+## Stretch Goals
+
+So you’ve completed all the iterations above? Great job! Make sure you've committed and pushed a version of your project before starting on the stretch goals. Remember that the stretch goals are optional.
+
+As a challenge to enhance your coding skills, consider refactoring the entire code by replacing the existing if, else-if, and else conditionals with a more streamlined and organized approach using JavaScript's switch case structure. By doing so, you'll improve code readability and maintainability, making it easier to manage various scenarios and outcomes in a more structured manner.
+
+### How to Approach the Stretch Goal:
+
+- Review the Existing Code: Take a thorough look at your current code to understand the logic, conditions, and branches that determine the flow of the program based on user choices.
+
+- Identify Cases: Identify the different cases or options that lead to different actions or outcomes in the program. Each case should correspond to a specific choice the user makes.
+
+- Implement the switch Statement: Replace the existing if, else-if, and else statements with a switch statement. The switch statement allows you to evaluate a single expression against multiple possible case values.
+
+- Define Cases: For each case value, define the corresponding code block that should be executed when that case is matched.
+
+- Handle Default Case: Include a default case to handle situations where none of the defined cases match the expression. This serves as a catch-all to manage unexpected inputs.
+
+- Test and Validate: Thoroughly test your refactored code with various inputs to ensure that it behaves as expected and produces the correct outputs.
+
+Refactoring the code using a switch case approach not only showcases your coding versatility but also contributes to writing cleaner and more efficient code. It's a valuable skill that can lead to more readable and maintainable programs in the long run.
