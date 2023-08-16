@@ -4,7 +4,7 @@
 //
 alert(
   `Welcome to our Javascript Pizzeria. 
-This little program will be executed without the neccesity of using DOM Elements or functions in order to enhance your knowledge, Readt to Start? - Click 'OK' to begin.`
+This little program will be executed without the necessity of using DOM Elements or functions in order to enhance your knowledge, Ready to Start? - Click 'OK' to begin.`
 );
 
 // Iteration
