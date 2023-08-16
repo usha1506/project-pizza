@@ -13,8 +13,8 @@ This little program will be executed without the necessity of using DOM Elements
 // Iteration 3 - Subtype Choice
 // Your Code Goes Here
 
-// Iteration 4 - Age and Order Confirmation
+// Iteration 4 - Age
 // Your Code Goes Here
 
-// Iteration 5 - Conclusion
+// Iteration 5 - Order Confirmation
 // Your Code Goes Here
