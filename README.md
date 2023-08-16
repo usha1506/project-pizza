@@ -81,11 +81,11 @@ The program should use the prompt() method to present the user with a menu of op
 
 For this iteration, the focus is on enabling the user to choose a subtype of the selected food type. Depending on the previously chosen food type (Pizza, Pasta, Salad), the program should present the user with subtype options specific to that food type. The prompt() method should be used to get the user's input. The program should then determine the chosen subtype and provide feedback using the alert() method to confirm the selection.
 
-### Iteration 4 - Age and Order Confirmation
+### Iteration 4 - Age
 
 In this iteration, the program should prompt the user to specify if the food is intended for a child or an adult. The prompt() method should be used to present the options and get the user's input. Based on the user's choice, an appropriate order message should be constructed. The program should use the alert() method to display the order message and the associated cost. The user's confirmation should be obtained using the prompt() method.
 
-### Iteration 5 - Conclusion
+### Iteration 5 - Order Confirmation
 
 The final iteration involves confirming the user's order based on their previous choices. The program should evaluate the user's confirmation choice using an if...else statement and take appropriate action. If the user confirms, a thank you message should be displayed using the alert() method, indicating that their meal will be prepared. If the user declines, a polite farewell message should be displayed using the alert() method, encouraging them to return for future orders.
 
