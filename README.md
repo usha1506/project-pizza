@@ -14,7 +14,11 @@ Have you deployed your project somewhere? Be sure to include the link to the dep
 
 ## Navigating this repository
 
-In this project, we're all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods. The fun part? We've ditched web page fuss, giving you a pure coding playground.
+In this project, we're all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods.
+
+### The fun part?
+
+We've ditched web page fuss, giving you a pure coding playground.
 
 ### Why?
 
