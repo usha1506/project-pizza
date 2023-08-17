@@ -16,7 +16,7 @@ Have you deployed your project somewhere? Be sure to include the link to the dep
 
 In this project, we're all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods.
 
-### The fun part?
+### The fancy part?
 
 We've ditched web page fuss, giving you a pure coding playground.
 
